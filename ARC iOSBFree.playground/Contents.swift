@@ -9,6 +9,7 @@ class A {
 }
 
 // MARK: you should think of this like counters; counter adds to 1 when a reference is held
+// MARK: by default, this is a strong reference. Everything said here applies to strong reference.
 var a: A? = A()
 
 // reference the object
