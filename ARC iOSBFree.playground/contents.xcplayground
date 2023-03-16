@@ -3,5 +3,6 @@
     <pages>
         <page name='Strong References, Default'/>
         <page name='Weak References'/>
+        <page name='Unowned References'/>
     </pages>
 </playground>
